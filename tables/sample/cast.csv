@@ -1,0 +1,552 @@
+﻿cast_id,movie_id,person_id,Character
+0,5,3129,Ted the Bellhop
+1,5,3131,Man
+2,5,3130,Angela
+3,5,3125,Elspeth
+4,5,3141,Margaret
+5,5,62,Leo
+6,5,138,Chester Rush
+7,5,3122,Jezebel
+8,5,3123,Diana
+9,5,3124,Athena
+10,5,3127,Raven
+11,5,2545,Long Hair Yuppy Scum
+12,5,3126,Eva
+13,5,3128,Kiva
+14,5,2555,Siegfried
+15,5,3132,Sarah
+16,5,3134,Wife
+17,5,3138,Betty
+18,5,3137,Norman
+19,5,3136,TV Dancing Girl
+20,5,3133,Corpse
+21,5,3135,Juancho
+22,5,37336,Hooker
+23,5,3140,Sam the Bellhop
+0,11,2,Luke Skywalker
+1,11,3,Han Solo
+2,11,4,Princess Leia Organa
+3,11,5,Grand Moff Tarkin
+4,11,12248,"Obi-Wan ""Ben"" Kenobi"
+5,11,6,See Threepio (C-3PO)
+6,11,130,Artoo-Detoo (R2-D2)
+7,11,24343,Chewbacca
+8,11,24342,Darth Vader
+9,11,15152,Voice of Darth Vader (voice)
+10,11,33032,Uncle Owen
+11,11,131625,Aunt Beru
+12,11,132538,Chief Jawa
+13,11,69249,General Willard
+14,11,47698,Red Two (Wedge)
+15,11,17356,Red Three (Biggs)
+16,11,42570,General Taggi
+17,11,79489,Commander #1
+18,11,12829,General Motti
+19,11,1729623,Stormtrooper
+20,11,216087,General Dodonna
+21,11,47401,Red Leader
+22,11,162432,"Red Four (John ""D"")"
+23,11,663,Red Six (Porkins)
+24,11,58475,Gold Leader
+25,11,151819,Gold Two
+26,11,202276,Gold Five
+27,11,1216947,Red Two (voice) (uncredited)
+28,11,1271058,Boba Fett (special edition) (uncredited)
+29,11,3044,Stormtrooper (voice) (uncredited)
+30,11,1271059,Stormtrooper (uncredited)
+31,11,1271060,Cantina Alien (uncredited)
+32,11,1271061,Cantina Alien (uncredited)
+33,11,199356,Greedo (uncredited)
+34,11,1271062,Nabrun Leids (uncredited)
+35,11,1271063,Wuher (uncredited)
+36,11,1271064,Drifter (Red 12) (uncredited)
+37,11,1271065,Cantina Patron (uncredited)
+38,11,1178140,Stormtrooper (uncredited)
+39,11,186229,Wioslea (uncredited)
+40,11,1271066,Dr. Evazan (uncredited)
+41,11,1271067,Cantina Patron (uncredited)
+42,11,104149,Greedo (uncredited)
+43,11,1271068,Hrchek Kal Fas (uncredited)
+44,11,1271069,Jawa (uncredited)
+45,11,53587,Stormtrooper / Tusken Raider / Death Star Trooper / Garouf Lafoe (uncredited)
+46,11,1271070,Jawa (uncredited)
+47,11,1271071,Garindan (uncredited)
+48,11,1271072,Djas Puhr (uncredited)
+49,11,202402,Death Star Trooper (uncredited)
+50,11,1271073,Stormtrooper with Binoculars (uncredited)
+51,11,1271074,Cantina Patron (uncredited)
+52,11,1195602,Death Star Trooper (uncredited)
+53,11,1271075,Kabe (uncredited)
+54,11,252527,Kabe / Jawa / GONK Droid (uncredited)
+55,11,1271076,Cantina Patron (uncredited)
+56,11,1271077,Stormtrooper (special edition) (uncredited)
+57,11,1271078,Stormtrooper (uncredited)
+58,11,964699,"""Leia's Rebel Escort (uncredited)"
+59,11,1271079,Stormtrooper (uncredited)
+60,11,1271080,Brea Tonnika (uncredited)
+61,11,1271081,Stormtrooper (uncredited)
+62,11,1271082,Ponda Baba (uncredited)
+63,11,4945,Death Star Trooper (uncredited)
+64,11,1271083,Mosep (uncredited)
+65,11,1148750,Chall Bekan (uncredited)
+66,11,201344,Solomohal (uncredited)
+67,11,1271085,Stormtrooper (voice) (uncredited)
+68,11,1271086,Jawa (uncredited)
+69,11,1190780,Jawa (uncredited)
+70,11,190453,Daine Jir (uncredited)
+71,11,1012562,BoShek (uncredited)
+72,11,1271091,Muftak / Cantina Band Member (uncredited)
+73,11,1271092,Temple Guard / Medal Bearer (uncredited)
+74,11,1271095,Jawa (uncredited)
+75,11,1271096,Takeel (uncredited)
+76,11,19801,Stormtrooper (special edition) (uncredited)
+77,11,1271102,Death Star Gunner (uncredited)
+78,11,1271104,Cantina Patron (uncredited)
+79,11,1271106,Swilla Corey (uncredited)
+80,11,1271107,Massassi Base Rebel Scout (uncredited)
+81,11,1183443,Rycar Ryjerd (uncredited)
+82,11,10657,InCom Engineer (uncredited)
+83,11,1271116,Leesub Sirln (uncredited)
+84,11,110319,Cmdr. Praji (Imperial Officer #2 on rebel ship) (uncredited)
+85,11,1271121,Tawss Khaa (uncredited)
+86,11,1271122,Senni Tonnika (uncredited)
+87,11,1271123,Cantina Patron (uncredited)
+88,11,1271124,Cantina Patron (uncredited)
+89,11,1271125,"""Sai'torr Kal Fas (uncredited)"
+90,11,187398,Lt. Pol Treidum (uncredited)
+91,11,1271126,Cantina Voices (voice) (uncredited)
+92,11,390158,Massassi Outpost Announcer / Various Voices (voice) (uncredited)
+93,11,166258,Lt. Shann Childsen (uncredited)
+94,11,7727,Cantina Alien (uncredited)
+95,11,184980,Del Goren (uncredited)
+96,11,160947,Stormtrooper (voice) (uncredited)
+97,11,161301,Stormtrooper (voice) (uncredited)
+98,11,1271127,Jawa (uncredited)
+99,11,159108,Greedo (voice) (uncredited)
+100,11,1271128,Thuku (uncredited)
+,11,,Ketwol / Melas (uncredited)
+0,13,31,Forrest Gump
+1,13,32,Jenny Curran
+2,13,33,Lt. Dan Taylor
+3,13,34,"""Pvt. Benjamin Buford 'Bubba' Blue"
+4,13,35,Mrs. Gump
+5,13,37821,Young Forrest Gump
+6,13,204997,Young Jenny Curran
+7,13,9640,Forrest Gump Jr.
+8,13,6751,School Bus Driver
+9,13,37825,Drill Sergeant
+10,13,37822,Young Elvis Presley
+11,13,37823,College Football Coach
+12,13,951881,Barber
+13,13,36221,Principal
+14,13,1215432,Louise
+15,13,1019727,Boy with cross
+16,13,37832,"""Jenny's Father"
+17,13,29934,High School Football Coach
+18,13,14526,Recruiter
+19,13,6310,Newscaster
+20,13,154697,Earl
+21,13,37831,"""Bubba's Mother"
+22,13,37830,"""Bubba's Great Grandmother"
+23,13,975108,"""Jenny's date"
+24,13,129725,Local Anchor #1
+25,13,37824,President Kennedy (voice)
+26,13,1346510,Army Recruiter
+27,13,1088274,Barracks Recruit
+28,13,114326,Club patron
+29,13,170051,Club patron
+30,13,95140,Club patron
+31,13,1446990,Helicopter gunman
+32,13,1401994,Cleveland
+33,13,1235787,Tex
+34,13,163441,Army Hospital Male Nurse
+35,13,163441,Wounded soldier
+36,13,92658,Wounded soldier
+37,13,81692,Hospital Officer
+38,13,37827,President Johnson (voice)
+39,13,1313819,Isabel
+40,13,1409948,Abbie Hoffman
+41,13,46921,Black Panther
+42,13,148122,Wesley
+43,13,406976,Hollywood Boulevard Girlfriend
+44,13,10565,Dick Cavett
+45,13,1405338,Carla
+46,13,1405338,Lenore
+47,13,86434,President Nixon (voice)
+48,13,1465241,Discharge Officer
+49,13,1465241,Drugged Out Boyfriend
+50,13,37828,Elderly Southern Woman
+51,13,1327149,Waitress in cafe
+52,13,37829,Taxi Driver
+53,13,176329,Aging Hippie
+54,13,169643,Wild eyed man
+55,13,196855,Crony
+56,13,98873,Football Player (uncredited)
+57,13,13204,Cheerleader (uncredited)
+58,13,84901,Football Coach (uncredited)
+59,13,1392671,Barracks Recruit (uncredited)
+60,13,1273540,National Guardsman (uncredited)
+,13,,Football Fan (uncredite
+0,6,2880,Frank Wyatt
+1,6,9777,Mike Peterson
+2,6,5724,Fallon
+3,6,12799,Ray Cochran
+4,6,11803,Sykes
+5,6,52422,"Teddy, the Kid"
+6,6,121667,Rhodes
+7,6,102710,Travis
+8,6,1077264,Dre
+10,6,154124,Buck
+11,6,55964,Linda Wyatt
+12,6,105988,Clarissa
+13,6,22621,Rita
+14,6,10822,John Wyatt
+15,6,1226696,Charley
+0,15,40,Charles Foster Kane
+1,15,7664,Jedediah Leland
+2,15,11029,Susan Alexander Kane
+3,15,14518,Jim W. Gettys
+4,15,11028,Walter Parks Thatcher
+5,15,11025,Mary Kane
+6,15,11033,Raymond
+7,15,11026,Emily Norton Kane
+8,15,14364,Herbert Carter
+9,15,11030,Jerry Thompson/Narrator
+10,15,11027,Mr. Bernstein
+11,15,14979,Signor Matiste
+12,15,33743,John
+13,15,11031,Mr. Rawlston
+14,15,105021,Bertha Anderson
+15,15,4077,Jim Kane
+16,15,1198371,Charles Foster Kane III
+17,15,11032,Young Charles Foster Kane
+19,15,8504,Interviewer
+20,15,945285,Man at Party in Everglades (uncredited)
+21,15,70261,"""Pianist in 'El Rancho' (uncredited)"
+22,15,9096,Gino (uncredited)
+23,15,1142371,Extra (uncredited)
+24,15,1369283,Newsreel Man (uncredited)
+25,15,1099216,Newsreel Man (uncredited)
+26,15,1422325,Newsreel Man (uncredited)
+27,15,1596347,Newsreel Man (uncredited)
+28,15,198219,Newsreel Man (uncredited)
+29,15,1423323,Newsreel Man (uncredited)
+30,15,1506412,Newsreel Man (uncredited)
+31,15,1543340,Newsreel Man (uncredited)
+32,15,975503,Newsreel Man (uncredited)
+33,15,1291801,Man at Xanadu Great Hall (uncredited)
+34,15,1034935,Man at Xanadu Great Hall (uncredited)
+35,15,122984,Man at Xanadu Great Hall (uncredited)
+36,15,939834,Maid in Xanadu Hall (uncredited)
+37,15,590519,Man at Boat Dock (uncredited)
+38,15,1199823,Man at Boat Dock (uncredited)
+39,15,1283209,Man at Boat Dock (uncredited)
+40,15,1234546,Woman at Boat Dock (uncredited)
+41,15,1550460,City Room Employee (uncredited)
+42,15,940329,City Editor (uncredited)
+43,15,1295853,Man Singing at Inquirer Party (uncredited)
+44,15,1404180,Man Singing at Inquirer Party (uncredited)
+45,15,1731500,Man Singing at Inquirer Party (uncredited)
+46,15,1468172,Man Singing at Inquirer Party (uncredited)
+47,15,1331758,Man Singing at Inquirer Party (uncredited)
+48,15,1170356,Man Singing at Inquirer Party (uncredited)
+49,15,1419570,Man Singing at Inquirer Party (uncredited)
+50,15,1420567,Man Singing at Inquirer Party (uncredited)
+51,15,1147860,Man Singing at Inquirer Party (uncredited)
+52,15,1331768,Man Singing at Inquirer Party (uncredited)
+53,15,1329660,Man Singing at Inquirer Party (uncredited)
+54,15,1422381,Man Singing at Inquirer Party (uncredited)
+55,15,231219,Man Singing at Inquirer Party (uncredited)
+56,15,988794,Man Singing at Inquirer Party (uncredited)
+57,15,1132357,Man Singing at Inquirer Party (uncredited)
+58,15,128873,Georgia (uncredited)
+59,15,1468812,Servant (uncredited)
+60,15,1369418,Wedding Guest (uncredited)
+61,15,43836,Inquirer Reporter (uncredited)
+62,15,1317082,Reporter (uncredited)
+63,15,1178520,Reporter (uncredited)
+64,15,857,Reporter (uncredited)
+65,15,1468186,Reporter (uncredited)
+66,15,34101,Reporter (uncredited)
+67,15,96159,Reporter (uncredited)
+68,15,34085,Reporter at Xanadu (uncredited)
+69,15,94293,Reporter at Xanadu (uncredited)
+70,15,233143,Reporter at Xanadu (uncredited)
+71,15,117036,Reporter at Wedding (uncredited)
+72,15,1468198,Reporter at Boat Deck (uncredited)
+73,15,30510,Reporter Smoking Pipe at End (uncredited)
+74,15,1090856,Teddy Roosevelt (uncredited)
+75,15,1307855,Boss Printer (uncredited)
+77,15,1422117,Copy Boy (uncredited)
+78,15,1472526,Copy Boy Delivering Message in Chicago Hotel Room (uncredited)
+79,15,1704987,House Maid (uncredited)
+80,15,227974,Newspaperman at Trenton Town Hall (uncredited)
+81,15,33971,Newspaperman at Trenton Town Hall (uncredited)
+82,15,1108831,Newspaperman at Trenton Town Hall (uncredited)
+83,15,1357958,Newspaperman at Trenton Town Hall (uncredited)
+84,15,34818,Newspaperman at Trenton Town Hall (uncredited)
+85,15,83822,Newspaperman at Trenton Town Hall (uncredited)
+86,15,997751,Newspaperman (uncredited)
+87,15,30012,Newspaperman (uncredited)
+88,15,1230787,Man in Projection Room (uncredited)
+89,15,109724,Man in Projection Room (uncredited)
+90,15,265594,Ward Heeler (uncredited)
+91,15,97996,Ward Heeler (uncredited)
+92,15,217770,Photographer (uncredited)
+93,15,1433378,French Maid (uncredited)
+94,15,160707,Solly (uncredited)
+95,15,1466158,Car-Driver (uncredited)
+96,15,1431719,Adolf Hitler (uncredited)
+97,15,17662,"""Leland's Nurse (uncredited)"
+98,15,1467392,Hermann Goring (uncredited)
+99,15,1437242,Dancer (uncredited)
+100,15,1445496,Dancer (uncredited)
+101,15,1464780,Dancer (uncredited)
+102,15,1468846,Dancer (uncredited)
+103,15,1413586,Dancer (uncredited)
+104,15,148401,Expressman (uncredited)
+105,15,1176362,"""Susan's Maid (uncredited)"
+106,15,1221258,Nurse (uncredited)
+107,15,1281296,Guest (uncredited)
+108,15,1468521,Man at Party in Everglades (uncredited)
+109,15,1422389,Joseph (uncredited)
+110,15,1492450,Man on Hospital Roof (uncredited)
+111,15,1681528,Man on Hospital Roof (uncredited)
+112,15,1490125,Man on Roof (uncredited)
+113,15,1205434,Best Man at Wedding (uncredited)
+114,15,1187947,Fish Driver (uncredited)
+115,15,1421016,Politician (uncredited)
+116,15,1023934,Politician (uncredited)
+117,15,121253,Politician (uncredited)
+118,15,1290863,Waiter at Inquirer Party (uncredited)
+119,15,1086333,Orchestra Leader (uncredited)
+120,15,134819,Ms. Townsend (uncredited)
+121,15,120474,Prompter (uncredited)
+122,15,1467054,Newsboy (uncredited)
+123,15,1420879,Newsman (uncredited)
+124,15,1612202,Shadowgraph Man (uncredited)
+125,15,569144,(uncredited)
+126,15,1269188,Civic Leader (uncredited)
+127,15,1718303,Civic Leader (uncredited)
+128,15,1235592,Dr. Corey (uncredited)
+129,15,935629,Ethel (uncredited)
+130,15,1467852,Woman at Opera (uncredited)
+131,15,1271205,Secretary (uncredited)
+132,15,1176510,Secretary (uncredited)
+133,15,1271643,Opera Spectator (uncredited)
+134,15,106585,Opera Spectator (uncredited)
+135,15,121127,Man at Madison Square Garden (uncredited)
+136,15,119547,Man at Madison Square Garden (uncredited)
+137,15,1208035,Man at Madison Square Garden (uncredited)
+138,15,1176932,Man (uncredited)
+139,15,1422376,Woman in Front of Chronicle Building (uncredited)
+140,15,1062654,Stagehand (uncredited)
+141,15,1265589,Stagehand (uncredited)
+142,15,1408657,Big Governess (uncredited)
+143,15,117029,Smather (uncredited)
+144,15,81975,Hireling (uncredited)
+145,15,109778,Hireling (uncredited)
+146,15,144549,Man in Inquirer City Room (uncredited)
+147,15,120476,Senate Investigator (uncredited)
+0,18,62,Korben Dallas
+1,18,64,Jean-Baptiste Emmanuel Zorg
+2,18,65,Father Vito Cornelius
+3,18,63,Leeloo
+4,18,66,Ruby Rhod
+5,18,8395,Billy
+6,18,591,General Munro
+7,18,8396,President Lindberg
+9,18,7400,Fog
+10,18,8397,David
+11,18,183500,Right Arm
+12,18,12642,General Staedert
+13,18,8398,Professor Pacoli
+14,18,2406,Mugger
+15,18,8399,Mactilburgh
+16,18,8400,Mr. Kim
+17,18,28897,Major Iceborg
+18,18,10208,General Tudor
+19,18,64210,Diva Plavalaguna
+20,18,33403,Flying Cop
+21,18,232174,VIP Stewardess
+22,18,1588721,Stewardess
+23,18,53246,Cop
+24,18,8445,Hefty Man
+25,18,1202628,"""Munro's Captain"
+26,18,1818315,Ground Crew
+27,18,16792,Neighbour
+29,18,1776773,Left Arm
+30,18,963257,"""President's Aide"
+31,18,15740,"""Scientist's Aide"
+32,18,1857410,Head Scientist
+33,18,1857411,Head of Military
+34,18,1857412,Omar
+35,18,1857413,Aziz
+36,18,240745,Mondoshawan / Mangalore Aknot / Airport Guard
+37,18,1857414,Mondoshawan
+38,18,179771,Mondoshawan
+39,18,1857415,Mondoshawan
+40,18,1857416,Mondoshawan / Ground Crew
+41,18,1402694,"""Mactilburgh's Assistant"
+42,18,1857418,"""Staedert's Captain"
+43,18,1211876,"""Mactilburgh's Technician"
+44,18,17072,Chief NY Cop
+45,18,1395429,NY Cop
+46,18,62498,Flying Cop
+47,18,45438,Flying Cop
+48,18,126316,Flying Cop / Military Technician
+49,18,1857422,Flying Cop
+50,18,1338974,Flying Cop
+51,18,1162833,Flying Cop
+52,18,1857423,Flying Cop
+53,18,1857424,Stewardess
+54,18,1857425,Stewardess
+55,18,1857427,Check-in Attendant
+56,18,36901,Warship Captain
+57,18,1768180,"""Diva's Manager"
+58,18,1857429,Cop
+59,18,1600365,Ruby Rhod Assistant
+60,18,1735717,Ruby Rhod Assistant
+61,18,1364322,Ruby Rhod Assistant
+62,18,1427818,"""Diva's Assistant"
+63,18,1857430,Human Aknot
+64,18,1857431,Mangalore Akanit
+65,18,33186,Mangalore Kino
+66,18,64102,Airport Cop
+67,18,937052,Tawdry Girl
+68,18,1857432,Shuttle Pilot
+69,18,1857433,Shuttle Co-Pilot
+70,18,1435006,Shuttle Mechanic
+71,18,1857434,Baby Ray
+72,18,1230490,Emperor Kodar Japhet
+73,18,1563988,Princess Achen
+74,18,1857435,Roy von Bacon
+75,18,1857436,Fhloston Hostess
+76,18,1857437,Fhloston Hostess
+77,18,987,Police Chief
+78,18,192895,Fhloston Commander
+79,18,36900,Fhloston Captain
+80,18,1857438,Hotel Manager
+81,18,1857439,"""Zorg's Secretary"
+82,18,1857440,Scientist
+83,18,213392,Scientist
+84,18,202759,Scientist
+85,18,1857441,Military Technician
+86,18,1857442,Military Technician
+87,18,554284,Military Technician
+88,18,1857443,Lab Guard
+89,18,1857444,Lab Guard
+90,18,1857445,"""Staedert's Technician"
+91,18,1857446,"""Staedert's Technician"
+92,18,1857449,"""Staedert's Technician"
+93,18,1857450,Robot Barman
+94,18,1857451,Warship Technician
+95,18,234685,TV Stewardess
+96,18,1857452,Power Operator
+97,18,1857453,Power Operator
+98,18,1857454,"""Zorg's Man"
+99,18,1857455,"""Zorg's Man"
+100,18,1857456,"""Zorg's Man"
+101,18,1857457,"""Zorg's Man"
+102,18,1857458,"""Zorg's Man"
+103,18,84440,Burger Assistant
+104,18,1596096,Burger Assistant
+105,18,1857459,Burger Assistant
+106,18,1748085,Glamorous Alien Diva at Event
+107,18,19375,Mondoshawan #3
+108,18,1467173,Japanese Hostess
+109,18,1857460,Glamorous Japanese Girl
+,18,185746,Stewardess
+0,14,1979,Lester Burnham
+1,14,516,Carolyn Burnham
+2,14,2155,Jane Burnham
+3,14,8210,Ricky Fitts
+4,14,8211,Angela Hayes
+5,14,2955,Colonel Frank Fitts
+6,14,2154,Jim Olmeyer
+7,14,8212,Buddy Kane
+8,14,19,Barbara Fitts
+9,14,8213,Jim Berkley
+10,14,8214,Brad Dupree
+11,14,68842,Sale House Man #1
+12,14,1658382,Sale House Man #2
+13,14,9634,Sale House Man #3
+14,14,64189,Sale House Woman #1
+15,14,166961,Sale House Woman #2
+16,14,1397945,Sale House Woman #3
+17,14,152796,Sale House Woman #4
+18,14,42715,Christy Kane
+19,14,12223,Catering Boss
+20,14,76742,"""Mr. Smiley's Counter Girl (Janine)"
+21,14,1441804,"""Mr. Smiley's Manager"
+22,14,177623,Firing Range Attendant
+23,14,1448568,Young Jane
+25,14,101687,Spartanette #1
+26,14,1503019,Spartanette #2
+27,14,1503020,Spartanette #3
+28,14,1503021,Spartanette #4
+29,14,1503022,Spartanette #5
+30,14,1503023,Spartanette #6
+31,14,1503024,Spartanette #7
+32,14,1503030,Spartanette #8
+33,14,568656,Spartanette #9
+34,14,1503025,Spartanette #10
+35,14,1503026,Playground Girl #1
+,14,,Playground Girl #2
+0,16,47,Selma Jezkova
+1,16,50,Kathy
+2,16,52,Bill Houston
+3,16,53,Jeff
+4,16,6748,Oldrich Novy
+5,16,2617,Linda Houston
+6,16,6749,Gene Jezkova
+7,16,1642,Norman
+8,16,6750,Samuel
+9,16,6751,Brenda
+10,16,6752,District Attorney
+11,16,1646,Dr. Porkorny
+12,16,6121,Morty
+13,16,6753,Judge
+14,16,6754,Receptionist
+15,16,6755,Defense Attorney
+16,16,6756,Suzan
+17,16,6757,Angry Man
+18,16,6758,Detective
+19,16,1640,Doctor
+20,16,4458,Woman on Night Shift
+21,16,1439629,Officer of the Court / Dancer
+22,16,6135,Chairman / Dancer
+23,16,1507755,New Defense Council
+24,16,1190848,Person in Doorway
+25,16,1445063,Dancer
+26,16,148629,Dancer
+27,16,1151162,Dancer (uncredited)
+28,16,1335599,"""Prison Guard - Serving Selma Jezkova's last meal (uncredited)"
+0,2,54768,Taisto Olavi Kasurinen
+1,2,54769,Irmeli Katariina Pihlaja
+2,2,4826,Mikkonen
+3,2,54770,Riku
+0,12,13,Marlin (voice)
+1,12,14,Dory (voice)
+2,12,12,Nemo (voice)
+3,12,5293,Gill (voice)
+4,12,18,Bloat (voice)
+5,12,19,Peach (voice)
+6,12,6168,Gurgle (voice)
+7,12,17401,Bubbles (voice)
+8,12,14723,Deb / Flo (voice)
+9,12,7911,Jacques (voice)
+10,12,118,Nigel (voice)
+11,12,7,Crush (voice)
+12,12,20,Coral (voice)
+13,12,981048,Squirt (voice)
+14,12,10,Mr. Ray (voice)
+15,12,22,Bruce (voice)
+16,12,8783,Anchor (voice)
+17,12,27752,Chum (voice)
+18,12,23,Dentist (voice)
+19,12,981049,Darla (voice)
+20,12,1211731,Tad (voice)
+21,12,1372790,Pearl (voice)
+22,12,17190,Sheldon (voice)
+33,12,7907,Fish School (voice)
