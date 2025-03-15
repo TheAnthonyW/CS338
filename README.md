@@ -1,4 +1,3 @@
-# CS338 - Group 18 
 
 Through this project, we are aiming to work with a sample database to simulate the MovieLens dataset using MySQL on the school server. The database contains data on the movies released on or before July 2017. Users will be able to query, add, delete, and modify data through a Python-based command-line interface (CLI).
 
